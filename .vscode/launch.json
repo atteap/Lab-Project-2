@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ControllerTest",
+            "request": "launch",
+            "mainClass": "edu.canisius.csc312.project2.ControllerTest",
+            "projectName": "Project2"
+        },
+        {
+            "type": "java",
+            "name": "Controller",
+            "request": "launch",
+            "mainClass": "edu.canisius.csc213.project2.Controller",
+            "projectName": "Project2"
+        },
+        {
+            "type": "java",
+            "request": "launch"
+        }
+    ]
+}
